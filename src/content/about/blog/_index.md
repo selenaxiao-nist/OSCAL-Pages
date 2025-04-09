@@ -11,6 +11,37 @@ menu:
     weight: 90
 ---
 
+### 2025/04/09
+# OSCAL Continues to Grow Roots in Europe
+## The European Cyber Security Organization convenes “Actions Beyond Words: Automating Audits for Streamlined Cybersecurity Policy Compliance in Europe” 
+### An awareness session on OSCAL for the European cybersecurity practitioners
+
+  ##### -- Cristian Michael Tracci, Senior Manager, Policy Analysis and Outreach [policy@ecs-org.eu](mailto:policy@ecs-org.eu)
+
+The European Cyber Security Organisation (ECSO) organizes an event titled “Actions Beyond Words: Automating Audits for Streamlined Cybersecurity Policy Compliance in Europe.” This session aims to discuss how to automate compliance to cybersecurity policies and security assessment, auditing, and continuous monitoring processes, raising awareness about the Open Security Controls Assessment Language (OSCAL), its applications, and benefits in this domain. It is primarily addressed to the European cybersecurity community, including policymakers, GRC practitioners, and researchers, while also promoting dialogue between like-minded geographies on topics of common interest.
+Organizations, whether private corporations, government agencies, or supervisory authorities, face significant challenges worldwide in managing compliance with various national and international laws, contractual clauses, and standards. The proliferation of cybersecurity regulations and standards in Europe exacerbates these challenges.
+Fostering a collaborative approach, in line with its nature as a public-private partnership, ECSO can bring together the private and public sectors, promoting expert debate grounded in substantive discussions and focused on solutions that benefit the entire ecosystem.
+
+### Location: 
+   - Online
+
+### Date and time: 
+    - 23 April 2025, 15:00 CEST /9:00 EDT 
+### Registration:
+ - [required](https://events.teams.microsoft.com/event/6d7dbddd-0186-4288-9369-99fcca0bba32@07daeece-77f0-4a62-882f-a7a4ce502054/registration).
+
+### Agenda
+| Time |	Session	| Speakers |
+| --------|-----------------------------------------------|-----------------------------------|
+| 10 min	| Opening Remarks	| ECSO |
+40 min | Continuous Proactive Security with OSCAL: Going Beyond ‘Shift Left’ |	Michaela Iorga, Supervisory Computer Engineer, Secure Systems and Applications Group, National Institute of Standards and Technology (NIST) |
+| 20 min	| Build with OSCAL: Use-cases for adoption and beyond	| Fritz Kunstler, Principal Security Engineer, Amazon Web Services (AWS) |
+| 20 min |	OSCAL and European Cybersecurity Public Policy |	Cristian Tracci, Senior Manager, Policy Analysis and Outreach Stream, ECSO |
+| 30 min | Cobalt EU Initiative for Automated Compliance |	Antonio Skarmeta, Full Professor, and Sara Nieves Matheu Garcia, Assistant Professor, University of Murcia |
+| 30 min	| Open Discussion	Moderated by ECSO | |
+
+Learn more about ECSO at ecs-org.eu
+
 
 ### 2025/02/07
 ## OSCAL Foundation launches to move security standard forward 
